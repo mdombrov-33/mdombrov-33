@@ -31,10 +31,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdombrov-33&show_icons=true&theme=radical" />
-</div>
-
 <p align="center" style="max-width: 600px; color: #666666; font-size: 16px; line-height: 1.5;">
   Here’s a collection of my work, experiments, and ideas in code form.  
   Take a look around and discover what drives my passion for software craftsmanship.  
