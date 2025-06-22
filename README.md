@@ -34,5 +34,5 @@
 <p align="center" style="max-width: 600px; color: #666666; font-size: 16px; line-height: 1.5;">
   Here’s a collection of my work, experiments, and ideas in code form.  
   Take a look around and discover what drives my passion for software craftsmanship.  
-  Check out my <a href="https://github.com/mdombrov-33/vault-66-store" target="_blank">Vault 66</a> project — a Fallout-themed e-commerce app — and the <a href="https://palette-snap-rho.vercel.app/" target="_blank">PaletteSnap</a> - color palette generator.
+  Check out my <a href="https://github.com/mdombrov-33/vault-66-store" target="_blank">Vault 66</a> project - a Fallout-themed e-commerce app, and the <a href="https://palette-snap-rho.vercel.app/" target="_blank">PaletteSnap</a> - color palette generator.
 </p>
