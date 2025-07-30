@@ -15,7 +15,7 @@
 </table>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://leetcard.jacoblin.cool/maximator16?theme=catppuccinMocha&font=Twinkle%20Star&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/maximator16?theme=radical&font=Twinkle%20Star&ext=activity" alt="LeetCode Stats" />
 </div>
 
 </div>
