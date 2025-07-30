@@ -7,7 +7,7 @@
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
       <div align="center">
-        <img src="https://streak-stats.demolab.com?user=mdombrov-33&theme=radical&background=0A001F&border=7C3AEB&fire=FF3F8E&ring=FF3F8E&hide_border=true&card_width=450" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=FF3F8E&text_color=D6CFFF&icon_color=7C3AEB&card_width=450" />
       </div>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
@@ -27,8 +27,8 @@
 
 <div align="center">
 
-<!-- Languages with custom styling -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=FF3F8E&text_color=D6CFFF&icon_color=7C3AEB" />
+<!-- Contribution stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mdombrov-33&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0A001F&hide_border=true&icon_color=FF3F8E&title_color=7C3AEB&text_color=D6CFFF" />
 
 </div>
 
@@ -84,9 +84,8 @@
 
 <div align="center">
 
-<!-- Spotify without the default styling -->
+<!-- Original clean Spotify widget -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 </div>
 
