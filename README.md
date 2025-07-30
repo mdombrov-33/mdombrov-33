@@ -85,7 +85,8 @@
 <div align="center">
 
 <!-- Spotify without the default styling -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=novatorem&show_offline=false&background_color=0A001F&interchange=true&bar_color=FF3F8E&bar_color_cover=false" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 </div>
 
