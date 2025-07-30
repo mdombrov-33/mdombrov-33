@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ### System Pulse // Diagnostics
@@ -21,20 +20,9 @@
   </tr>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=7C3AEB&text_color=D6CFFF&card_width=450" alt="Top Languages" />
-      </div>
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <div align="center">
-        <img src="https://leetcard.jacoblin.cool/maximator16?theme=dark&font=jetbrains%20mono&border=7c3aed&radius=8&width=450" alt="LeetCode Stats" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://leetcard.jacoblin.cool/maximator16?theme=catppuccinMocha&font=Twinkle%20Star&ext=activity" alt="LeetCode Stats" />
+</div>
 
 </div>
 
