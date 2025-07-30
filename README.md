@@ -1,10 +1,4 @@
 <div align="center">
-
-### System Pulse // Diagnostics
-
-</div>
-
-<div align="center">
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
@@ -27,12 +21,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### Stack Protocols // Modules
-
-</div>
 
 <div align="center">
   <p>
@@ -60,12 +48,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### Project Log // Interfaces
-
-</div>
 
 <div align="center">
 <table style="width: 90%; border-collapse: collapse; margin-bottom: 20px;">
@@ -96,12 +78,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### // AUDIO TRANSMISSION // CURRENT FREQUENCY
-
-</div>
 
 <div align="center">
 
