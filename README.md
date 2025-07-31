@@ -37,7 +37,7 @@
 
 <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,go,rust,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
   </div>
 </div>
 
