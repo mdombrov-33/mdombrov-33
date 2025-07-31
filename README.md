@@ -57,13 +57,6 @@
 ---
 
 <div align="center">
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FFFF&background=0A001F&center=true&vCenter=true&random=false&width=500&height=50&lines=Full-stack+developer;TypeScript+%7C+Go+%7C+Python;Building+modern+applications" />
-
-</div>
-
-<div align="center">
 <table>
   <tr>
     <td width="33%">
