@@ -37,8 +37,14 @@
 
 <div align="center">
   
-<!-- Tech stack -->
-<img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
+<!-- Tech stack with animated border effect -->
+<table cellpadding="20" style="border: 2px solid #00FFFF; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -80,10 +86,16 @@
 
 <div align="center">
 
-<!-- Spotify widget -->
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false" alt="Spotify" />
-</a>
+<!-- Spotify widget with subtle frame -->
+<table cellpadding="12" style="border: 1px solid #FF3F8E; border-radius: 10px; background-color: #0A001F;">
+  <tr>
+    <td>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false" alt="Spotify" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
