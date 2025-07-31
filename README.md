@@ -4,10 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=header&animation=twinkling&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" />
+
+<table cellpadding="10" style="border: 2px solid #FF3F8E; border-radius: 8px; background-color: #0A001F;">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" width="600" />
+    </td>
+  </tr>
+</table>
+
 </div>
-
-
 <table>
   <tr>
     <td width="50%">
