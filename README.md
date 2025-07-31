@@ -46,11 +46,8 @@
 <div align="center">
   
 <!-- Tech stack with pixel frame -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&color=FF3F8E&background=0A001F&center=true&vCenter=true&random=false&width=500&height=20&lines=◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤" />
 
 <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&color=FF3F8E&background=0A001F&center=true&vCenter=true&random=false&width=500&height=20&lines=◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣" />
 
 </div>
 
