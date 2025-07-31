@@ -23,12 +23,6 @@
 
 </div>
 
-<!-- Neon geometric divider -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&color=00FFFF&background=0A001F&center=true&vCenter=true&random=false&width=600&height=25&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" />
-
-<!-- Synthwave horizon divider -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=10&color=7C3AEB&background=0A001F&center=true&vCenter=true&random=false&width=700&height=30&lines=░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░" />
-
 ---
 
 <div align="center">
