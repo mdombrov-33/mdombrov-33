@@ -1,7 +1,7 @@
 <div align="center">
   
-<!-- Custom animated divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=header&animation=fadeIn&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
+<!-- Enhanced synthwave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=header&animation=twinkling&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
 
 <table>
   <tr>
@@ -23,6 +23,12 @@
 
 </div>
 
+<!-- Neon geometric divider -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&color=00FFFF&background=0A001F&center=true&vCenter=true&random=false&width=600&height=25&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" />
+
+<!-- Synthwave horizon divider -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=10&color=7C3AEB&background=0A001F&center=true&vCenter=true&random=false&width=700&height=30&lines=░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░" />
+
 ---
 
 <div align="center">
@@ -34,8 +40,12 @@
 
 <div align="center">
   
-<!-- Tech stack as a sleek grid -->
+<!-- Tech stack with pixel frame -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&color=FF3F8E&background=0A001F&center=true&vCenter=true&random=false&width=500&height=20&lines=◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤" />
+
 <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&color=FF3F8E&background=0A001F&center=true&vCenter=true&random=false&width=500&height=20&lines=◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣" />
 
 </div>
 
@@ -89,5 +99,5 @@
 
 </div>
 
-<!-- Subtle footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=80&section=footer&animation=fadeIn"/>
+<!-- Enhanced footer wave with more gradient stops -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=80&section=footer&animation=twinkling"/>
