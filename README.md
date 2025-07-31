@@ -1,19 +1,17 @@
 <div align="center">
-  
+
 <!-- Enhanced synthwave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=header&animation=twinkling&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
 
-<div align="center">
-<table cellpadding="15" style="border: 2px solid #FF3F8E; border-radius: 12px; background-color: #0A001F;">
+<table cellpadding="15" style="border: none; border-radius: 12px; background-color: #0A001F; margin-bottom: 40px;">
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" width="500" />
     </td>
   </tr>
 </table>
-</div>
 
-<table cellspacing="15">
+<table cellspacing="15" style="border: none; background: none;">
   <tr>
     <td width="50%">
       <div align="center">
@@ -36,22 +34,19 @@
 ---
 
 <div align="center">
-  
-<!-- Tech stack with animated border effect -->
-<table cellpadding="20" style="border: 2px solid #00FFFF; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
-    </td>
-  </tr>
-</table>
+
+<div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
+  </div>
+</div>
 
 </div>
 
 ---
 
 <div align="center">
-<table cellspacing="20">
+<table cellspacing="20" style="border: none;">
   <tr>
     <td width="33%">
       <div align="center">
@@ -78,25 +73,16 @@
 </table>
 </div>
 
-<div align="center">
+<div align="center" style="padding-top: 10px;">
   <img src="https://leetcard.jacoblin.cool/maximator16?theme=radical&font=Orbitron&ext=activity&border=0&radius=10" alt="LeetCode Stats" />
 </div>
 
 ---
 
-<div align="center">
-
-<!-- Spotify widget with subtle frame -->
-<table cellpadding="12" style="border: 1px solid #FF3F8E; border-radius: 10px; background-color: #0A001F;">
-  <tr>
-    <td>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false" alt="Spotify" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="padding: 12px; border-radius: 10px; background-color: #0A001F;">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false" alt="Spotify" />
+  </a>
 </div>
 
 <!-- Enhanced footer wave -->
