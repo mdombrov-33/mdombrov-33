@@ -8,7 +8,7 @@
 <table cellpadding="10" style="border: 2px solid #FF3F8E; border-radius: 8px; background-color: #0A001F;">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" width="600" />
+      <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" width="500" />
     </td>
   </tr>
 </table>
