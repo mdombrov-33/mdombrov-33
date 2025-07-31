@@ -36,13 +36,6 @@
 ---
 
 <div align="center">
-
-<!-- Streak stats instead of duplicate GitHub stats -->
-<img src="https://streak-stats.demolab.com?user=mdombrov-33&theme=radical&background=0A001F&hide_border=true&stroke=00FFFF&ring=FF3F8E&fire=FF3F8E&currStreakLabel=D6CFFF&sideLabels=00FFFF&currStreakNum=FF3F8E&sideNums=D6CFFF" />
-
-</div>
-
-<div align="center">
   
 <!-- Tech stack -->
 <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
