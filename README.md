@@ -47,7 +47,7 @@
 ---
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe.png" width="100%" style="border-radius: 15px; max-width: 400px;" alt="Synthwave Aesthetic"/>
+  <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe.png" width="100%" style="border-radius: 15px; max-width: 400px;" alt="Synthwave Girl Aesthetic"/>
 </div>
 
 ---
