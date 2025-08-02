@@ -74,7 +74,7 @@
 </div>
 
 <div align="center" style="padding-top: 10px;">
-  <img src="https://leetcard.jacoblin.cool/maximator16?theme=radical&font=Orbitron&ext=activity&border=0&radius=10" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/maximator16?theme=radical&font=Unica&ext=activity&border=0&radius=10" alt="LeetCode Stats" />
 </div>
 
 ---
