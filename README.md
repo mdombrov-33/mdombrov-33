@@ -6,7 +6,7 @@
 <table cellpadding="15" style="border: none; border-radius: 12px; background-color: #0A001F; margin-bottom: 40px;">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" width="500" />
+      <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/fcbf63a288a0.png" alt="Ryan Gosling Pixel Art" width="650" />
     </td>
   </tr>
 </table>
