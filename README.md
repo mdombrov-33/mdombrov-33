@@ -43,7 +43,6 @@
 
 </div>
 
-
 ---
 
 <div align="center" style="margin: 30px 0;">
@@ -89,6 +88,10 @@
 <div align="center" style="padding: 12px; border-radius: 10px; background-color: #0A001F;">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false" alt="Spotify" />
+  </a>
+  <br><br>
+  <a href="https://open.spotify.com/user/1dqhdnjtxkrp7w89abjvfkz31">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1dqhdnjtxkrp7w89abjvfkz31&count=3&width=400&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
 
