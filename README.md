@@ -15,12 +15,12 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=00FFFF&text_color=D6CFFF&icon_color=FF3F8E&card_width=450&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=00FFFF&text_color=D6CFFF&icon_color=FF3F8E&card_width=450&langs_count=8&cache_seconds=1800" />
       </div>
     </td>
     <td width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mdombrov-33&show_icons=true&theme=radical&bg_color=0A001F&hide_border=true&icon_color=00FFFF&title_color=FF3F8E&text_color=D6CFFF&card_width=450" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mdombrov-33&show_icons=true&theme=radical&bg_color=0A001F&hide_border=true&icon_color=00FFFF&title_color=FF3F8E&text_color=D6CFFF&card_width=450&cache_seconds=1800" alt="GitHub Stats" />
       </div>
     </td>
   </tr>
@@ -57,21 +57,21 @@
     <td width="33%">
       <div align="center">
         <a href="https://github.com/mdombrov-33/vault-66-store">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdombrov-33&repo=vault-66-store&theme=radical&bg_color=0A001F&title_color=00FFFF&text_color=D6CFFF&hide_border=true&show_owner=false&icon_color=FF3F8E" alt="Vault 66 Store">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdombrov-33&repo=vault-66-store&theme=radical&bg_color=0A001F&title_color=00FFFF&text_color=D6CFFF&hide_border=true&show_owner=false&icon_color=FF3F8E&cache_seconds=1800" alt="Vault 66 Store">
         </a>
       </div>
     </td>
     <td width="33%">
       <div align="center">
         <a href="https://github.com/mdombrov-33/loresmith">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdombrov-33&repo=loresmith&theme=radical&bg_color=0A001F&title_color=00FFFF&text_color=D6CFFF&hide_border=true&show_owner=false&icon_color=FF3F8E" alt="Loresmith">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdombrov-33&repo=loresmith&theme=radical&bg_color=0A001F&title_color=00FFFF&text_color=D6CFFF&hide_border=true&show_owner=false&icon_color=FF3F8E&cache_seconds=1800" alt="Loresmith">
         </a>
       </div>
     </td>
     <td width="33%">
       <div align="center">
         <a href="https://github.com/mdombrov-33/qdrant-ai-search">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdombrov-33&repo=qdrant-ai-search&theme=radical&bg_color=0A001F&title_color=00FFFF&text_color=D6CFFF&hide_border=true&show_owner=false&icon_color=FF3F8E" alt="Qdrant AI Search">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdombrov-33&repo=qdrant-ai-search&theme=radical&bg_color=0A001F&title_color=00FFFF&text_color=D6CFFF&hide_border=true&show_owner=false&icon_color=FF3F8E&cache_seconds=1800" alt="Qdrant AI Search">
         </a>
       </div>
     </td>
