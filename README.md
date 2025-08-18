@@ -3,6 +3,7 @@
 <!-- Enhanced synthwave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=header&animation=twinkling&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
 
+<!--
 <table cellpadding="15" style="border: none; border-radius: 12px; background-color: #0A001F; margin-bottom: 40px;">
   <tr>
     <td>
@@ -10,6 +11,8 @@
     </td>
   </tr>
 </table>
+-->
+
 
 <table cellspacing="15" style="border: none; background: none;">
   <tr>
