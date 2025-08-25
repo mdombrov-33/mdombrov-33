@@ -54,8 +54,14 @@
   </defs>
   <rect x="2" y="2" width="276" height="56" rx="10" ry="10" fill="url(#grid)" opacity="0.3"/>
 
-  <!-- Ukraine flag emoji -->
-  <text x="20" y="38" font-family="Arial, sans-serif" font-size="24" opacity="0.9">🇺🇦</text>
+  <!-- "UA" text for Ukraine -->
+  <text x="18" y="40" 
+        font-family="'Courier New', monospace" 
+        font-size="16" 
+        font-weight="bold"
+        fill="#FFFFFF"
+        filter="url(#glow)"
+        opacity="0.95">UA</text>
 
   <!-- "UKRAINE TOP" text -->
   <text x="55" y="28" 
