@@ -1,0 +1,113 @@
+<svg width="280" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient definitions -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A001F;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0b3d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A001F;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFFF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF3F8E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00FFFF;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="numberGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF3F8E;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00FFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF3F8E;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pulse animation -->
+    <filter id="pulse">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+      <animate attributeName="stdDeviation" values="2;4;2" dur="2s" repeatCount="indefinite"/>
+    </filter>
+  </defs>
+
+  <!-- Background with rounded corners -->
+  <rect x="2" y="2" width="276" height="56" rx="10" ry="10" 
+        fill="url(#bgGradient)" 
+        stroke="#00FFFF" 
+        stroke-width="1" 
+        opacity="0.9"/>
+
+  <!-- Subtle grid pattern -->
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00FFFF" stroke-width="0.3" opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect x="2" y="2" width="276" height="56" rx="10" ry="10" fill="url(#grid)" opacity="0.3"/>
+
+  <!-- Ukraine flag emoji -->
+  <text x="20" y="38" font-family="Arial, sans-serif" font-size="24" opacity="0.9">🇺🇦</text>
+
+  <!-- "UKRAINE TOP" text -->
+  <text x="55" y="28" 
+        font-family="'Courier New', monospace" 
+        font-size="11" 
+        font-weight="bold"
+        fill="url(#textGradient)"
+        filter="url(#glow)"
+        opacity="0.95">UKRAINE TOP</text>
+
+  <!-- Rank number -->
+  <text x="55" y="45" 
+        font-family="'Courier New', monospace" 
+        font-size="18" 
+        font-weight="bold"
+        fill="url(#numberGradient)"
+        filter="url(#pulse)">#15</text>
+
+  <!-- "CONTRIBUTOR" text -->
+  <text x="90" y="45" 
+        font-family="'Courier New', monospace" 
+        font-size="11" 
+        font-weight="bold"
+        fill="url(#textGradient)"
+        filter="url(#glow)"
+        opacity="0.95">CONTRIBUTOR</text>
+
+  <!-- Decorative elements -->
+  <circle cx="220" cy="15" r="2" fill="#00FFFF" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="235" cy="25" r="1.5" fill="#FF3F8E" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="18" r="1" fill="#00FFFF" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- GitHub icon -->
+  <g transform="translate(260, 35)">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" 
+          fill="#00FFFF" 
+          opacity="0.7"
+          transform="scale(0.8)"/>
+  </g>
+
+  <!-- Subtle border glow animation -->
+  <rect x="2" y="2" width="276" height="56" rx="10" ry="10" 
+        fill="none" 
+        stroke="#00FFFF" 
+        stroke-width="1" 
+        opacity="0.8">
+    <animate attributeName="stroke" values="#00FFFF;#FF3F8E;#00FFFF" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
