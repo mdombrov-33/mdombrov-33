@@ -26,6 +26,10 @@
   </tr>
 </table>
 
+<div align="center" style="margin: 20px 0;">
+  <img src="contributor.svg" alt="Ukraine Top 15 Contributor" width="280"/>
+</div>
+
 <!-- Activity heatmap -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdombrov-33&bg_color=0A001F&color=D6CFFF&line=00FFFF&point=FF3F8E&area=true&hide_border=true&custom_title=Activity%20Graph&area_color=7C3AED&radius=8" width="100%"/>
 
