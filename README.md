@@ -13,11 +13,6 @@
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdombrov-33&show_icons=true&hide_border=true&bg_color=0D0015&text_color=E9D5FF&icon_color=A855F7&title_color=C4B5FD&count_private=true&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&hide_border=true&bg_color=0D0015&text_color=E9D5FF&title_color=C4B5FD&langs_count=6"/>
-</p>
-
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=mdombrov-33&hide_border=true&background=0D0015&ring=A855F7&fire=A855F7&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C4B5FD&stroke=2A1040"/>
 </p>
 
@@ -31,11 +26,9 @@
 
 ---
 
-<p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe2.png"/>
-  &nbsp;&nbsp;
-  <img width="40%" src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe3.png"/>
-</p>
+<div align="center">
+  <img width="55%" src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe3.png"/>
+</div>
 
 ---
 
