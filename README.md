@@ -1,42 +1,47 @@
 <div align="center">
 
-<!-- Enhanced synthwave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=header&animation=twinkling&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdombrov-33&bg_color=0A001F&color=D6CFFF&line=00FFFF&point=FF3F8E&area=true&hide_border=true&custom_title=Activity%20Graph&area_color=7C3AED&radius=8" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0015&height=130&section=header&animation=twinkling"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark" />
 </div>
 
-</div>
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdombrov-33&show_icons=true&hide_border=true&bg_color=0D0015&text_color=E9D5FF&icon_color=A855F7&title_color=C4B5FD&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&hide_border=true&bg_color=0D0015&text_color=E9D5FF&title_color=C4B5FD&langs_count=6" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=mdombrov-33&hide_border=true&background=0D0015&ring=A855F7&fire=A855F7&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C4B5FD&stroke=2A1040" />
+</p>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdombrov-33&bg_color=0D0015&color=C4B5FD&line=A855F7&point=E9D5FF&area=true&hide_border=true&custom_title=Activity%20Graph&area_color=2A1040&radius=8" width="100%"/>
 
 ---
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe.png" width="100%" style="border-radius: 15px; max-width: 400px;" alt="Synthwave Girl Aesthetic"/>
+  <img src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe.png" width="100%" style="border-radius: 12px;" />
 </div>
 
 ---
 
-<div align="center" style="padding-top: 10px;">
-  <img src="https://leetcard.jacoblin.cool/maximator16?theme=radical&font=Unica&ext=activity&border=0&radius=10" alt="LeetCode Stats" />
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/maximator16?theme=dark&font=Unica&ext=activity&border=0&radius=10" alt="LeetCode Stats" />
 </div>
 
 ---
 
-<div align="center" style="padding: 12px; border-radius: 10px; background-color: #0A001F;">
+<div align="center" style="background-color: #0D0015; padding: 16px; border-radius: 10px;">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0A001F&interchange=false&bar_color=FF3F8E&bar_color_cover=false" alt="Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0D0015&interchange=false&bar_color=A855F7&bar_color_cover=false" alt="Spotify" />
   </a>
   <br><br>
   <a href="https://open.spotify.com/user/1dqhdnjtxkrp7w89abjvfkz31">
@@ -44,5 +49,4 @@
   </a>
 </div>
 
-<!-- Enhanced footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0015&height=100&section=footer&animation=twinkling"/>
