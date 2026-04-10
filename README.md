@@ -4,12 +4,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe1.png"/>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=mdombrov-33&color=4A1080&style=flat-square&label=▸)
-
-</div>
-
 ---
 
 <div align="center">
