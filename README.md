@@ -6,9 +6,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,py,nextjs,react,tailwind,fastapi,nodejs,postgres,redis,docker,prisma&theme=dark"/>
-</div>
+</div> -->
 
 ---
 
