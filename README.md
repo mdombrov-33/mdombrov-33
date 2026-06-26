@@ -32,9 +32,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/maximator16?theme=dark&font=Unica&ext=activity&border=0&radius=10" alt="LeetCode"/>
-</div>
+</div> -->
 
 ---
 
