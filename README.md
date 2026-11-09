@@ -39,10 +39,6 @@
   <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
 </div>
 
-<div align="center">
-  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
-</div>
-
 <img width="100%" src="https://raw.githubusercontent.com/mdombrov-33/mdombrov-33/main/vibe5.png"/>
 
 <div align="center">
