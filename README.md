@@ -55,4 +55,8 @@
   </a>
 </div>
 
+<div align="center">
+  <img width="620" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1dqhdnjtxkrp7w89abjvfkz31&width=620&time=0&unique=1&progress=0&explicit=0&profile=off&footer=wave&bg_color=0d0015&text_color=e9d5ff&artist_color=c4b5fd&meta_color=7c3aed&accent_color=a855f7&logo_color=a855f7" alt="Spotify recently played"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0015&height=80&section=footer&animation=twinkling"/>
