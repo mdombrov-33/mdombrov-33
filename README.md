@@ -22,7 +22,7 @@
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
 
 <div align="center">
-  <img src="./assets/glitch-girl-dark.webp" width="56%" alt="Dark violet glitch art portrait" />
+  <img width="100%" src="./assets/glitch-girl-wide.webp" alt="Purple glitch eyes"/>
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
