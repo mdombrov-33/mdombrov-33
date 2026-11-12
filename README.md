@@ -22,7 +22,7 @@
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
 
 <div align="center">
-  <img width="100%" src="./assets/glitch-girl-wide.webp" alt="Purple glitch eyes"/>
+  <img width="100%" src="./assets/cyber-moth.png" alt="Cyber Moth"/>
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
