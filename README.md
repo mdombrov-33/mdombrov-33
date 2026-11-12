@@ -4,6 +4,25 @@
 
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
 
+
+<div align="center">
+
+  <h3>Backend-focused AI Engineer</h3>
+
+  <p>
+    Building agentic systems, LLM infrastructure,<br>
+    retrieval pipelines, and AI security tools.
+  </p>
+
+  <p align="center">
+    <a href="mailto:maksymdombrov@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%23a855f7" width="25" height="25" alt="Email"></a>
+    &emsp;
+    <a href="https://www.linkedin.com/in/maksymdombrov"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%23a855f7" width="25" height="25" alt="LinkedIn"></a>
+  </p>
+
+</div>
+
+
 <div align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mdombrov-33&show_icons=true&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E9D5FF&icon_color=C4B5FD&ring_color=A855F7&text_bold=false" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&langs_count=8&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E9D5FF&card_width=340" alt="Most used languages" />
