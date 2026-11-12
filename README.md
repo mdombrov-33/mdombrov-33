@@ -19,7 +19,11 @@
   <a href="https://github.com/mdombrov-33/vex-mcp"><img src="./assets/project-vex-mcp.svg" width="32%" alt="vex-mcp - live repo statistics" /></a>
 </div>
 
-<div align="center"><sub>GitHub Actions refreshes repository stats, descriptions and languages daily.</sub></div>
+<div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
+
+<div align="center">
+  <img src="./assets/glitch-girl-dark.webp" width="56%" alt="Dark violet glitch art portrait" />
+</div>
 
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
 
