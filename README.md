@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile"><img align="top" width="39%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1dqhdnjtxkrp7w89abjvfkz31&cover_image=true&theme=default&show_offline=false&background_color=0D0015&interchange=false&bar_color=A855F7&bar_color_cover=false" alt="Spotify now playing" /></a>
-  <img align="top" width="57%" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1dqhdnjtxkrp7w89abjvfkz31&width=620&time=0&unique=1&progress=0&explicit=0&profile=off&footer=wave&bg_color=0d0015&text_color=e9d5ff&artist_color=c4b5fd&meta_color=7c3aed&accent_color=a855f7&logo_color=a855f7" alt="Spotify recently played" />
+  <img align="top" width="57%" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1dqhdnjtxkrp7w89abjvfkz31&width=620&time=0&unique=1&progress=0&explicit=0&count=9&profile=off&footer=wave&bg_color=0d0015&text_color=e9d5ff&artist_color=c4b5fd&meta_color=7c3aed&accent_color=a855f7&logo_color=a855f7" alt="Spotify recently played" />
 </div>
 
 <div align="center"><img src="./assets/footer.png" width="100%" alt="" /></div>
