@@ -18,8 +18,8 @@
  <text x="76" y="55" font-size="24" font-weight="700" fill="#F3DAFF">go-promptguard</text>
  <text x="31" y="109" font-size="17" fill="#D6C8E7">LLM prompt injection detection for Go</text><text x="31" y="133" font-size="17" fill="#D6C8E7">applications</text>
  <line x1="26" y1="164" x2="374" y2="164" stroke="#4A255E" stroke-width="1"/>
- <text x="27" y="191" font-size="17" fill="#DCC0F5">★ —</text>
- <text x="124" y="191" font-size="17" fill="#DCC0F5">⑂ —</text>
+ <text x="27" y="191" font-size="17" fill="#DCC0F5">★ 15</text>
+ <text x="124" y="191" font-size="17" fill="#DCC0F5">⑂ 1</text>
  <circle cx="260" cy="185" r="6" fill="#AF65EA"/>
  <text x="273" y="191" font-size="16" fill="#D8BCEF">Go</text>
 </g>
