@@ -6,9 +6,12 @@
 
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mdombrov-33&show_icons=true&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E9D5FF&icon_color=C4B5FD&ring_color=A855F7&text_bold=false" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&langs_count=8&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E9D5FF&card_width=340" alt="Most used languages" />
+
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=mdombrov-33&show_icons=true&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E9D5FF&icon_color=C4B5FD&ring_color=A855F7&text_bold=false" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdombrov-33&layout=compact&langs_count=8&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E9D5FF&card_width=340" alt="Top Languages"/>
 </div>
+
 
 <div align="center"><img src="./assets/divider.svg" width="82%" alt="" /></div>
 
